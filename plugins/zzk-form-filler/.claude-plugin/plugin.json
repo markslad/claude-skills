@@ -1,0 +1,9 @@
+{
+  "name": "zzk-form-filler",
+  "version": "0.1.0",
+  "description": "Fills the Czech employee card application PDF (Žádost o zaměstnaneckou kartu, VZOR ZZK) for every worker in a masterlist spreadsheet.",
+  "author": { "name": "markslad" },
+  "repository": "https://github.com/markslad/claude-skills",
+  "license": "MIT",
+  "keywords": ["zaměstnanecká karta", "employee card", "pdf form", "ZZK"]
+}

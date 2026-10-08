@@ -1,0 +1,13 @@
+{
+  "name": "markslad-skills",
+  "owner": { "name": "markslad" },
+  "metadata": { "description": "Claude skills by markslad" },
+  "plugins": [
+    {
+      "name": "zzk-form-filler",
+      "source": "./plugins/zzk-form-filler",
+      "description": "Fills the Czech employee card (ZZK) PDF form for every worker in a masterlist spreadsheet.",
+      "version": "0.1.0"
+    }
+  ]
+}
